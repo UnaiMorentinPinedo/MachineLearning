@@ -9,13 +9,13 @@ Machine learning techniques implemented in C++. In this repo there can be found 
 
 Implementation covers unsupervised learning techniques. Specially, two clustering algorithms: KMeans and Fuzzy C Means. Which can be used to create clusters for mall customer and iris types (for example).
 
-## Isolation Forest
-
-Implementation of an unsupervised learning algorithm. The isolation forest anomaly detection algorithm.
-
 ## Decision Tree
 
 Implementation of a decision tree algorithm called ID3, based on information gain.
+
+## Isolation Forest
+
+Implementation of an unsupervised learning algorithm. The isolation forest anomaly detection algorithm.
 
 ## Markov Chain & MDP
 
